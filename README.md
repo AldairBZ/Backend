@@ -39,10 +39,7 @@ El objetivo principal es gestionar la comunicación con el frontend, procesar la
   /test
     /java
       /com/miempresa/miproyecto  # 🧪 Pruebas automatizadas
-
-
-
-
+```
 
 🔗 Conexión con el frontend
 
