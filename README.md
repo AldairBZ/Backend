@@ -41,7 +41,8 @@ El objetivo principal es gestionar la comunicación con el frontend, procesar la
       /com/miempresa/miproyecto  # 🧪 Pruebas automatizadas
 
 
----
+
+
 
 🔗 Conexión con el frontend
 
