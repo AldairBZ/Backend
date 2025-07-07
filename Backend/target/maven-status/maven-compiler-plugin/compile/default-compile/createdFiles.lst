@@ -1,0 +1,5 @@
+com\loginbackend\LoginBackendApplication.class
+com\loginbackend\repositorio\UsuarioRepositorio.class
+com\loginbackend\modelo\Usuario.class
+com\loginbackend\controlador\LoginControlador.class
+com\loginbackend\servicio\UsuarioServicio.class
